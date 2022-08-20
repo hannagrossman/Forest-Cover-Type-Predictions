@@ -5,7 +5,7 @@ I completed this project with a team as a part of an Applied Machine Learning co
     
 
 **Files:**    
-**Jupyter Notebook:** Forest_Cover_Type_Predictions.ipynb. 
+**Jupyter Notebook:** Forest_Cover_Type_Predictions.ipynb   
 **Presentation:** Forest_Cover_Type_Predictions.pptx   
 **Data:** data    
   
